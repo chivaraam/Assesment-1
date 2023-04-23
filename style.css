@@ -1,0 +1,28 @@
+
+
+     
+      header, footer {
+        height: 50px;
+        background-color: whitesmoke;
+        color: black;
+        text-align: center;
+        padding: 10px;
+      }
+      body{
+        background-color: black;
+      }
+    
+      main {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 530px;
+        width: auto;
+        background:lightgreen;
+      }
+      
+
+      h1 {
+        color: black;
+        text-align: center;
+      }
